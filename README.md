@@ -1,22 +1,33 @@
-<h1 align="center">Hola 👋, soy Iván García Raso</h1>
-<h3 align="center">Analista y Científico de Datos Junior, con experiencia previa como desarrollador backend en Java</h3>
+<h1 align="center">¡Hola! Soy Iván García Raso 👋</h1>
+<h3 align="center">Analista y Científico de Datos con formación en backend y fuerte enfoque en datos</h3>
 
-- 🎓 Actualmente completando un bootcamp de **Data Analytics & Data Science** en Neoland (340h).
-- 📊 Experiencia con análisis de datos, visualización y modelado predictivo.
-- 🔍 Interesado en aplicar machine learning para resolver problemas de negocio.
-- 📁 Estoy subiendo proyectos a mi GitHub, como análisis de ventas y predicción de supervivencia del Titanic.
-- 💻 He trabajado con tecnologías como **Python, R, Power BI, Jupyter Notebook, SQL y Scikit-learn**.
-- 🚀 Buscando mi primera oportunidad profesional en el mundo de los datos.
+🎓 Finalizando un bootcamp intensivo en **Data Analytics & Data Science** en Neoland (340h), donde aplico técnicas reales de análisis, visualización y machine learning.
 
-📫 Contacto: **ivanraso02@gmail.com**
+💻 Con experiencia previa como **desarrollador backend en Java**, ahora me especializo en transformar datos en información valiosa para el negocio.
 
-📎 Enlaces útiles:  
-[LinkedIn](https://www.linkedin.com/in/ivan-garcia-raso)  
-[GitHub - IvanMLProjects](https://github.com/IvanMLProjects)
+📊 Domino herramientas de análisis como:
+- **Excel avanzado**
+- **Power BI y Tableau** para visualización interactiva
+- **SQL avanzado** para extracción y transformación de datos
+
+🧠 Conocimientos sólidos en:
+- **Estadística y probabilidad**
+- **Machine Learning** e **Inteligencia Artificial**
+- **Big Data**
+- **Python y R** para análisis, modelado y visualización
+
+🚀 Algunos proyectos destacados:
+- Análisis de ventas reales en una cafetería ☕
+- Predicción de supervivencia en el Titanic con KNN 🚢
+
+📫 ¿Quieres contactar conmigo?  
+✉️ **ivanraso02@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/ivan-garcia-raso)  
+🐙 [GitHub](https://github.com/IvanMLProjects)
 
 ---
 
-🛠️ Lenguajes y herramientas que uso:
+🛠️ Tecnologías que utilizo:
 
-```python
-Python | R | SQL | Jupyter Notebook | Power BI | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | Git
+```text
+Python | R | SQL Avanzado | Excel | Power BI | Tableau | Jupyter Notebook | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | Git | Big Data
