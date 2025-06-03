@@ -29,6 +29,5 @@
 
 🛠️ Tecnologías que utilizo:
 
-```text
 Python | R | SQL Avanzado | Excel | Power BI | Tableau | Jupyter Notebook | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | Git
 
