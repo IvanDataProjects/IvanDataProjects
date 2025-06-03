@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Iván García Raso 👋</h1>  
-<h3 align="center">Transformo datos complejos en decisiones estratégicas | Analista y Científico de Datos con background en backend</h3>
+<h3>Transformo datos complejos en decisiones estratégicas | Analista y Científico de Datos con background en backend</h3>
 
 🎓 Finalizando en junio de 2025 un bootcamp intensivo en **Data Analytics & Data Science** (340h) en Neoland, donde aplico técnicas reales de análisis, visualización de datos y machine learning.
 
