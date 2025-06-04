@@ -17,9 +17,14 @@
 - **Big Data**
 - **Python** y **R** para análisis, modelado y visualización
 
-🚀 Algunos proyectos destacados:
-- [Análisis de ventas en una cafetería ☕](https://github.com/IvanMLProjects/analisis-cafeteria) – Visualización de patrones de consumo con Power BI y SQL
-- [Predicción de supervivencia en el Titanic 🚢](https://github.com/IvanMLProjects/titanic-knn) – Clasificación supervisada con KNN en Python
+🚀 Algunos de mis proyectos destacados:
+- [PowerBI-Cafeteria ☕](https://github.com/IvanDataProjects/powerBi-cafeteria) – Análisis y visualización de datos de ventas en una cafetería usando Power BI.
+- [KNN-Titanic 🚢](https://github.com/IvanDataProjects/knn-titanic) – Predicción de supervivencia en el Titanic utilizando clasificación supervisada con KNN en Python.
+- [CO2-Emisiones 🌍](https://github.com/IvanDataProjects/c02-emisiones) – Análisis de datos sobre emisiones de CO2 entre combustibles tradicionales e híbridos.
+- [Red-Neuronal-Convolucional 🧠](https://github.com/IvanDataProjects/red_neuronal_convolucional) – Implementación de una red neuronal convolucional para reconocimiento de imágenes.
+
+📁 Puedes ver todos mis repositorios aquí:  
+🔗 [github.com/IvanDataProjects?tab=repositories](https://github.com/IvanDataProjects?tab=repositories)
 
 📫 **Contacto**  
 ✉️ ivanraso02@gmail.com  
@@ -30,4 +35,4 @@
 
 ### 🛠️ Tecnologías que utilizo
 
-Python | R | SQL Avanzado | Excel | Power BI | Tableau | Jupyter Notebook | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | Git
+`Python` | `R` | `SQL Avanzado` | `Excel` | `Power BI` | `Tableau` | `Jupyter Notebook` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Scikit-learn` | `Git`
