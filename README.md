@@ -2,7 +2,7 @@
 
 ## Especialista en datos con background en backend y enfoque en análisis, visualización y machine learning
 
-🎓 Finalizando en junio de 2025 un bootcamp intensivo en **Data Analytics & Data Science** (340h) en Neoland, donde aplico técnicas reales de análisis, visualización de datos y machine learning.
+🎓 Finalizando en junio de 2025 un bootcamp intensivo en **Data Analytics & Data Science** (360h) en Neoland, donde aplico técnicas reales de análisis, visualización de datos y machine learning.
 
 💻 Con experiencia previa como **desarrollador backend en Java**, especializado en el desarrollo de APIs y lógica de negocio. Ahora enfoco mi carrera en extraer valor del dato para la toma de decisiones empresariales.
 
