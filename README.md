@@ -12,10 +12,9 @@
 - **SQL avanzado** para extracción, transformación y análisis de datos
 
 🧠 Conocimientos sólidos en:
-- **Estadística** y **probabilidad**
-- **Machine Learning** e **Inteligencia Artificial**
-- **Big Data**
 - **Python** y **R** para análisis, modelado y visualización
+- **Estadística** y **probabilidad**
+- **Machine Learning** y **Redes Neuronales**
 
 🚀 Algunos de mis proyectos destacados:
 - [PowerBI-Cafeteria ☕](https://github.com/IvanDataProjects/powerBi-cafeteria) – Análisis y visualización de datos de ventas en una cafetería usando Power BI.
